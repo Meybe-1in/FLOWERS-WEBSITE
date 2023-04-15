@@ -164,7 +164,6 @@ header .fa-bars{
     padding: 1rem 2rem;
     text-align: center;
     mix-blend-mode: screen;
-
 }
 
 .about .row .content h3{
@@ -186,7 +185,6 @@ header .fa-bars{
     gap: 1.5rem;
     padding-top: 5rem;
     padding-bottom: 5rem;
-
 }
 .icons-container .icons{
     background: #fff;
@@ -377,11 +375,9 @@ header .fa-bars{
     border-radius: .5rem;
     margin: .7rem 0;
     width: 100%;
-
 }
 .contact .row form .box:focus{
     border-color: var(--green);
-
 }
 .contact .row form textarea {
     height: 15rem;
@@ -486,17 +482,3 @@ header .fa-bars{
         }
     }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-/*https://www.youtube.com/watch?v=cLOT0APQzDs*/
